@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v1/OOeLJyskd82xlaq+HEYgs1Mq9IqEncf4lSh7AC7GLzoWqB2g3nF637dlNOVO7HsLc29eRUR1LMS5VZTaNEQ==",
+  "dgSpecHash": "hA0zRulaACZm+4y4g6KgoGWfxX4J0ihu9FA/V40ARQI2rWyj3dBR+ySSixLyj8JK8KrYklNCvmONG3gKIuZJOg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\CRUD_DAL.csproj",
+  "projectFilePath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\CRUD_DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

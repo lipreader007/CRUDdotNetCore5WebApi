@@ -12,3 +12,18 @@ C:\Projects\Zoobook\SimpleCRUD\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.dll
 C:\Projects\Zoobook\SimpleCRUD\CRUDDAL\obj\Debug\net5.0\ref\CRUD_DAL.dll
 C:\Projects\Zoobook\SimpleCRUD\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.pdb
 C:\Projects\Zoobook\SimpleCRUD\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.genruntimeconfig.cache
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\bin\Debug\net5.0\CRUD_DAL.deps.json
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\bin\Debug\net5.0\CRUD_DAL.runtimeconfig.json
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\bin\Debug\net5.0\CRUD_DAL.runtimeconfig.dev.json
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\bin\Debug\net5.0\CRUD_DAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\bin\Debug\net5.0\ref\CRUD_DAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\bin\Debug\net5.0\CRUD_DAL.pdb
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.csproj.AssemblyReference.cache
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.AssemblyInfoInputs.cache
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.AssemblyInfo.cs
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.csproj.CoreCompileInputs.cache
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\ref\CRUD_DAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.pdb
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUDDAL\obj\Debug\net5.0\CRUD_DAL.genruntimeconfig.cache

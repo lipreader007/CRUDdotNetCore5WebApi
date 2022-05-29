@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2KdMXMlpjIx2B9W9GTJ7/KoB3ja+kPP+bq7UZGf7tVYZd/IzeX+mMTE0aWIYYhps93YujcX9+jXp4SR7Ui+Uyg==",
+  "dgSpecHash": "L3p8UCkFw+uicOk6SYTLS5TeXV/jzfxDlFIWIApMrW//krN3mmjayqMaHeWYznfKymMyZcyFPdunN4qZTyKl7A==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj",
+  "projectFilePath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

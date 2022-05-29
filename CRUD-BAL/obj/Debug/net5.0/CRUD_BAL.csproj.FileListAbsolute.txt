@@ -16,3 +16,21 @@ C:\Projects\Zoobook\SimpleCRUD\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.dll
 C:\Projects\Zoobook\SimpleCRUD\CRUD-BAL\obj\Debug\net5.0\ref\CRUD_BAL.dll
 C:\Projects\Zoobook\SimpleCRUD\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.pdb
 C:\Projects\Zoobook\SimpleCRUD\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.genruntimeconfig.cache
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\bin\Debug\net5.0\CRUD_BAL.deps.json
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\bin\Debug\net5.0\CRUD_BAL.runtimeconfig.json
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\bin\Debug\net5.0\CRUD_BAL.runtimeconfig.dev.json
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\bin\Debug\net5.0\CRUD_BAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\bin\Debug\net5.0\ref\CRUD_BAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\bin\Debug\net5.0\CRUD_BAL.pdb
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\bin\Debug\net5.0\CRUD_DAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\bin\Debug\net5.0\CRUD_DAL.pdb
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.csproj.AssemblyReference.cache
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.AssemblyInfoInputs.cache
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.AssemblyInfo.cs
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.csproj.CoreCompileInputs.cache
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.csproj.CopyComplete
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\ref\CRUD_BAL.dll
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.pdb
+C:\Projects\Zoobook\test clone\CRUDdotNetCore5WebApi\CRUD-BAL\obj\Debug\net5.0\CRUD_BAL.genruntimeconfig.cache

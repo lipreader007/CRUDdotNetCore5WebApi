@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj": {}
+    "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUD-BAL\\CRUD_BAL.csproj": {
+    "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUD-BAL\\CRUD_BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUD-BAL\\CRUD_BAL.csproj",
+        "projectUniqueName": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUD-BAL\\CRUD_BAL.csproj",
         "projectName": "CRUD_BAL",
-        "projectPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUD-BAL\\CRUD_BAL.csproj",
+        "projectPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUD-BAL\\CRUD_BAL.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUD-BAL\\obj\\",
+        "outputPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUD-BAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\CRUD_DAL.csproj": {
-                "projectPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\CRUD_DAL.csproj"
+              "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\CRUD_DAL.csproj": {
+                "projectPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\CRUD_DAL.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj": {
+    "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj",
+        "projectUniqueName": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj",
         "projectName": "CRUDAspNetCore5WebAPI",
-        "projectPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj",
+        "projectPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDAspNetCore5WebAPI\\CRUDAspNetCore5WebAPI.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDAspNetCore5WebAPI\\obj\\",
+        "outputPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDAspNetCore5WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,11 +116,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUD-BAL\\CRUD_BAL.csproj": {
-                "projectPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUD-BAL\\CRUD_BAL.csproj"
+              "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUD-BAL\\CRUD_BAL.csproj": {
+                "projectPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUD-BAL\\CRUD_BAL.csproj"
               },
-              "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\CRUD_DAL.csproj": {
-                "projectPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\CRUD_DAL.csproj"
+              "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\CRUD_DAL.csproj": {
+                "projectPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\CRUD_DAL.csproj"
               }
             }
           }
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\CRUD_DAL.csproj": {
+    "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\CRUD_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\CRUD_DAL.csproj",
+        "projectUniqueName": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\CRUD_DAL.csproj",
         "projectName": "CRUD_DAL",
-        "projectPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\CRUD_DAL.csproj",
+        "projectPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\CRUD_DAL.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Zoobook\\SimpleCRUD\\CRUDDAL\\obj\\",
+        "outputPath": "C:\\Projects\\Zoobook\\test clone\\CRUDdotNetCore5WebApi\\CRUDDAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
